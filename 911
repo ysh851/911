@@ -127,7 +127,7 @@ Proxy:
   cipher: auto
   tls: true
   network: ws
-  ws-path: /v2rayssrcom/
+  ws-path: /
   Host: tls.leeroot886.xyz
 
 
