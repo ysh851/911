@@ -130,11 +130,6 @@ Proxy:
   ws-path: /v2rayssrcom/
   Host: tls.leeroot886.xyz
 
-- name: "Trojan1"
-  type: trojan
-  server: oljmqs.nimdgf.space
-  port: 443
-  password: oljmqs.nimdgf.space
 
  
 ###############################################################配置分割线
